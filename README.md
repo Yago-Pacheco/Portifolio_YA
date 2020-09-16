@@ -19,7 +19,7 @@ Fui atleta de alto rendimento por 4 anos, o que me proporcionou, resolução de 
 ## Projetos:
 Alguns dos meus projetos:
 
-* **Em processo...**
+* [Análise de dados de uma planilha com python](https://bit.ly/3muKiMD)
 ---
 
 
