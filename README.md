@@ -20,7 +20,7 @@ Fui atleta de alto rendimento por 4 anos, o que me proporcionou, resolução de 
 Alguns dos meus projetos:
 
 * [Análise de dados de uma planilha com python](https://bit.ly/3muKiMD)
-* [Desafio de previsão de falhas em máquinas](https://bit.ly/3muKiMD)
+* [Desafio de previsão de falhas em máquinas](encurtador.com.br/fjwzA)
 ---
 
 
