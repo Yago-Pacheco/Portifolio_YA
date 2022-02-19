@@ -9,7 +9,7 @@ Sou estudante de Engenharia Mecânica na PUC Minas, já atuei na área de projet
 
 Fui atleta de alto rendimento por 4 anos, o que me proporcionou, resolução de problemas de forma rápida, criatividade, trabalho em equipe e sempre estar me desafiando á um novo desafio.
 
-**Background in:** Python, Machine Learning, Excel, AutoCad, SolidWorks, Inventor.
+**Background in:** Python, Machine Learning, Excel, SQL.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/yago-pacheco-de-aquino-958881183)
