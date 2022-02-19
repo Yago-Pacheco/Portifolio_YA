@@ -14,6 +14,7 @@ Fui atleta de alto rendimento por 4 anos, o que me proporcionou, resolução de 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/yago-pacheco-de-aquino-958881183)
 * [Medium](https://medium.com/@yagopacheco.34)
+* [Kaggle](https://www.kaggle.com/yagopachecodeaquino)
 
 
 ## Projetos:
