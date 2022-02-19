@@ -21,6 +21,7 @@ Alguns dos meus projetos:
 
 * [Análise de dados de uma planilha com python](https://bit.ly/3muKiMD)
 * [Desafio de previsão de falhas em máquinas](encurtador.com.br/fjwzA)
+* [Webscraping para extração de dados do LinkedIn](https://bityli.com/eWHjx)
 ---
 
 
