@@ -20,8 +20,9 @@ Fui atleta de alto rendimento por 4 anos, o que me proporcionou, resolução de 
 ## Projetos:
 Alguns dos meus projetos:
 
-* [Desafio de previsão de falhas em máquinas](encurtador.com.br/fjwzA)
 * [Webscraping para extração de dados do LinkedIn](https://bityli.com/eWHjx)
+* [Desafio de previsão de falhas em máquinas](encurtador.com.br/fjwzA)
+* [Corretor Ortográfico com Python e NLP] (encurtador.com.br/fBJWY)
 ---
 
 
