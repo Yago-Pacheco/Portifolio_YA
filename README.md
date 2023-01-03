@@ -22,7 +22,7 @@ Alguns dos meus projetos:
 
 * [Webscraping para extração de dados do LinkedIn](https://bityli.com/eWHjx)
 * [Desafio de previsão de falhas em máquinas](encurtador.com.br/fjwzA)
-* [Corretor Ortográfico com Python e NLP] (encurtador.com.br/fBJWY)
+* [Corretor Ortográfico com Python e NLP](encurtador.com.br/fBJWY)
 ---
 
 
