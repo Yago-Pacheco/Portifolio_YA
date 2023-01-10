@@ -3,7 +3,7 @@
 </p>
 
 # Yago P Aquino
-<sub>*Adiministrador no SPA* e Trainee no FSAE PUC Minas</sub>
+<sub>*Analista no SPA* e Trainee no Grupo Buzattos</sub>
 
 Sou estudante de Engenharia Mecânica na PUC Minas, já atuei na área de projetos, em que pude desenvolver habilidades de comunicação, visão, resolução de problemas e trabalho em equipe. Atualmente estou na área adiministrativa, em que tomo a frente em vendas, compras, emissão de notas, recebimento de mercadorias e logística.
 
