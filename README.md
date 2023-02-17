@@ -21,10 +21,10 @@ Fui atleta de alto rendimento por 4 anos, o que me proporcionou, resolução de 
 Alguns dos meus projetos:
 
 * [Webscraping para extração de dados do LinkedIn](https://bityli.com/eWHjx)
-* [Desafio de previsão de falhas em máquinas](encurtador.com.br/fjwzA)
-* [Corretor Ortográfico com Python e NLP](encurtador.com.br/fBJWY)
-* [Breast Cancer Wisconsin Prediction](https://bityli.com/gqTpq)
-* [Classificador de Sentimentos IMDB](https://bityli.com/9SObI)
+* [Desafio de previsão de falhas em máquinas](https://github.com/Yago-Pacheco/Desafio-Maquina)
+* [Corretor Ortográfico com Python e NLP](https://github.com/Yago-Pacheco/Corretor_Ortografico)
+* [Breast Cancer Wisconsin Prediction](https://github.com/Yago-Pacheco/Breast-Cancer-Wisconsin)
+* [Classificador de Sentimentos IMDB](https://github.com/Yago-Pacheco/Classificador-de-sentimentos-IMDB)
 ---
 
 
