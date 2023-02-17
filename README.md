@@ -20,7 +20,7 @@ Fui atleta de alto rendimento por 4 anos, o que me proporcionou, resolução de 
 ## Projetos:
 Alguns dos meus projetos:
 
-* [Webscraping para extração de dados do LinkedIn](https://bityli.com/eWHjx)
+* [Webscraping para extração de dados do LinkedIn](https://github.com/Yago-Pacheco/Web-Scraping-Lkd/blob/main/README.md)
 * [Desafio de previsão de falhas em máquinas](https://github.com/Yago-Pacheco/Desafio-Maquina)
 * [Corretor Ortográfico com Python e NLP](https://github.com/Yago-Pacheco/Corretor_Ortografico)
 * [Breast Cancer Wisconsin Prediction](https://github.com/Yago-Pacheco/Breast-Cancer-Wisconsin)
