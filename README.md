@@ -7,6 +7,8 @@
 
 Sou estudante de Engenharia Mecânica na PUC Minas, já atuei na área de projetos, em que pude desenvolver habilidades de comunicação, visão, resolução de problemas e trabalho em equipe, área adiministrativa, em que tomo a frente em vendas, compras, emissão de notas, recebimento de mercadorias e logística, marketing com dados em que buscava atráves das análises entender o cliente e como atrair mais clientes para a empressa.
 
+Atualmente sou voluntário de pesquisa, na qual envolve vibrações e usinagem. Sendo minha participação para o uso de machine learning para prever o estado final do produto a partir de dados coletados dos processos citados acima.
+
 Fui atleta de alto rendimento por 4 anos, o que me proporcionou, resolução de problemas de forma rápida, criatividade, trabalho em equipe e sempre estar me desafiando á um novo desafio.
 
 **Background in:** Python, Machine Learning, Deep Learning, Power BI, Excel, SQL.
