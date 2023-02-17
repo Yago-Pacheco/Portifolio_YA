@@ -24,7 +24,7 @@ Alguns dos meus projetos:
 * [Desafio de previsão de falhas em máquinas](encurtador.com.br/fjwzA)
 * [Corretor Ortográfico com Python e NLP](encurtador.com.br/fBJWY)
 * [Breast Cancer Wisconsin Prediction](https://bityli.com/gqTpq)
-* [Classificador de Sentimentos IMDB](l1nq.com/K3l4E)
+* [Classificador de Sentimentos IMDB](https://github.com/Yago-Pacheco/Classificador-de-sentimentos-IMDB)
 ---
 
 
