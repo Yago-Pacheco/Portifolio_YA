@@ -3,7 +3,7 @@
 </p>
 
 # Yago P Aquino
-<sub>*Membro do time de Dados na Prime Results</sub>
+<sub>*Membro do time de Dados na Prime Results*</sub>
 
 Sou pesquisador e estudante de Engenharia Mecânica na PUC Minas, já atuei na área de projetos, em que pude desenvolver habilidades de comunicação, visão, resolução de problemas e trabalho em equipe, área adiministrativa, em que tomo a frente em vendas, compras, emissão de notas, recebimento de mercadorias e logística, marketing com dados em que buscava atráves das análises entender o cliente e como atrair mais clientes para a empressa.
 
