@@ -9,7 +9,7 @@ Sou pesquisador e estudante de Engenharia Mecânica na PUC Minas, já atuei na �
 
 Atualmente sou pesquisador em duas áreas da engenharia mecânica, a primeira envolve vibrações e usinagem, já a segunda envolve processos de fabricação de polímeros. Sendo minha participação na primeira, para o uso de machine learning para prever o estado final do produto a partir de dados coletados dos processos citados acima, na segunda atuo de forma geral em toda a pesquisa.
 
-Além disso, estagiário no time de Dados da empresa Prime Results, na qual, atuando na extração dos dados, tratamento, criação relatórios, dashboard etc.
+Além disso, estagiário no time de Dados da empresa Prime Results, na qual, atuando na extração dos dados, tratamento, modelagem de modelos de aprendizado de máquina e estatisticos, além da criação relatórios, dashboard etc.
 
 Fui atleta de alto rendimento por 4 anos, o que me proporcionou, resolução de problemas de forma rápida, criatividade, trabalho em equipe e sempre estar me desafiando á um novo desafio.
 
